@@ -2,7 +2,7 @@
 
 ## Career
 
-- Tmax WAPL (티맥스 와플) / 2023.08 - 재직 중 / **Front-end** Web Developer.
+- Tmax WAPL (티맥스 와플) / 2023.08 - 재직 중 / **Front-end** Web Developer
 
 ## Work Experience
 
